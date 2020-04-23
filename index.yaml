@@ -2,12 +2,21 @@ apiVersion: v1
 entries:
   deephealth-backend:
   - apiVersion: v1
+    appVersion: b8ee98c
+    created: "2020-04-23T15:08:03.839811+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 9bde4992aeb1f5adce1e4f1cd6d980a64885cc2af8f3d1adf6353e90162bea85
+    name: deephealth-backend
+    urls:
+    - https://deephealthproject.github.io/helm-charts/deephealth-backend-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
     appVersion: "1.0"
-    created: 2020-04-15T12:12:28.953361+02:00
+    created: "2020-04-23T15:08:03.835619+02:00"
     description: A Helm chart for Kubernetes
     digest: ac2a2febc83a182e8c6f19946a7c7872937e43887e4a7283a475769008958441
     name: deephealth-backend
     urls:
     - https://deephealthproject.github.io/helm-charts/deephealth-backend-0.1.0.tgz
     version: 0.1.0
-generated: 2020-04-15T12:12:28.935674+02:00
+generated: "2020-04-23T15:08:03.825861+02:00"
