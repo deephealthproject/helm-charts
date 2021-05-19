@@ -3,7 +3,7 @@ entries:
   deephealth-backend:
   - apiVersion: v1
     appVersion: 11f2b98
-    created: "2021-05-18T21:23:32.204484378Z"
+    created: "2021-05-19T13:34:17.001136311Z"
     dependencies:
     - name: nginx
       repository: https://crs4.github.io/helm-charts
@@ -18,11 +18,11 @@ entries:
     digest: 60b050e0d5e052dbe0c9283ba552385f69bea9633d880631abedbc69186c98e0
     name: deephealth-backend
     urls:
-    - https://deephealthproject.github.io/helm-charts/deephealth-backend-0.2.0.tgz
+    - https://kikkomep.github.io/deephealth-helm-charts/deephealth-backend-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
     appVersion: 2fd828d8
-    created: "2021-05-18T21:23:32.187997163Z"
+    created: "2021-05-19T13:34:16.987047355Z"
     dependencies:
     - name: nginx
       repository: https://crs4.github.io/helm-charts
@@ -37,11 +37,11 @@ entries:
     digest: d6e1d56f079c04766b88e3f7ec5235e8370a5e3ed24862a257b0c3f9a549639c
     name: deephealth-backend
     urls:
-    - https://deephealthproject.github.io/helm-charts/deephealth-backend-0.1.2.tgz
+    - https://kikkomep.github.io/deephealth-helm-charts/deephealth-backend-0.1.2.tgz
     version: 0.1.2
   - apiVersion: v1
     appVersion: b8ee98c
-    created: "2021-05-18T21:23:32.174253751Z"
+    created: "2021-05-19T13:34:16.976601132Z"
     dependencies:
     - name: nginx
       repository: https://crs4.github.io/helm-charts
@@ -56,11 +56,11 @@ entries:
     digest: 9bde4992aeb1f5adce1e4f1cd6d980a64885cc2af8f3d1adf6353e90162bea85
     name: deephealth-backend
     urls:
-    - https://deephealthproject.github.io/helm-charts/deephealth-backend-0.1.1.tgz
+    - https://kikkomep.github.io/deephealth-helm-charts/deephealth-backend-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2021-05-18T21:23:32.161514943Z"
+    created: "2021-05-19T13:34:16.965647167Z"
     dependencies:
     - name: nginx
       repository: https://crs4.github.io/helm-charts
@@ -75,16 +75,25 @@ entries:
     digest: ac2a2febc83a182e8c6f19946a7c7872937e43887e4a7283a475769008958441
     name: deephealth-backend
     urls:
-    - https://deephealthproject.github.io/helm-charts/deephealth-backend-0.1.0.tgz
+    - https://kikkomep.github.io/deephealth-helm-charts/deephealth-backend-0.1.0.tgz
     version: 0.1.0
   deephealth-frontend:
   - apiVersion: v1
+    appVersion: a9bceff
+    created: "2021-05-19T13:34:17.002477632Z"
+    description: A Helm chart for Kubernetes
+    digest: 97e8df76af1423be63303728b58f61cc007a965de38d74f35d5c08406dbcce25
+    name: deephealth-frontend
+    urls:
+    - https://kikkomep.github.io/deephealth-helm-charts/deephealth-frontend-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
     appVersion: 06bf0d6
-    created: "2021-05-18T21:23:32.205342351Z"
+    created: "2021-05-19T13:34:17.001788791Z"
     description: A Helm chart for Kubernetes
     digest: c49742e1f79b6b932d02fc1188514789b30245002407c92efc4559bacdb49c55
     name: deephealth-frontend
     urls:
-    - https://deephealthproject.github.io/helm-charts/deephealth-frontend-0.1.0.tgz
+    - https://kikkomep.github.io/deephealth-helm-charts/deephealth-frontend-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-18T21:23:32.148564982Z"
+generated: "2021-05-19T13:34:16.955266657Z"
