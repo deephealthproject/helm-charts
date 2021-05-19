@@ -23,4 +23,5 @@ Installation instructions are available [here](https://github.com/deephealthproj
 Installation instructions are available [here](https://github.com/deephealthproject/docker-frontend#deploy-on-kubernetes).
 
 #### Releases
+- [deephealth-frontend-0.2.0.tgz](https://github.com/deephealthproject/helm-charts/raw/gh-pages/deephealth-frontend-0.2.0.tgz)
 - [deephealth-frontend-0.1.0.tgz](https://github.com/deephealthproject/helm-charts/raw/gh-pages/deephealth-frontend-0.1.0.tgz)
