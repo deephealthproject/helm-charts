@@ -13,6 +13,7 @@ helm repo update
 
 Installation instructions are available [here](https://github.com/deephealthproject/docker-backend#deploy-on-kubernetes).
 #### Releases
+- [deephealth-backend-0.2.1.tgz](https://github.com/deephealthproject/helm-charts/raw/gh-pages/deephealth-backend-0.2.1.tgz)
 - [deephealth-backend-0.2.0.tgz](https://github.com/deephealthproject/helm-charts/raw/gh-pages/deephealth-backend-0.2.0.tgz)
 - [deephealth-backend-0.1.2.tgz](https://github.com/deephealthproject/helm-charts/raw/gh-pages/deephealth-backend-0.1.2.tgz)
 - [deephealth-backend-0.1.1.tgz](https://github.com/deephealthproject/helm-charts/raw/gh-pages/deephealth-backend-0.1.1.tgz)
